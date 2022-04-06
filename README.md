@@ -1,4 +1,6 @@
-### Hola! Soy Dafne 
+### Hola! Soy Dafne ![image](https://github.com/DafneVillarreal/DafneVillarreal/blob/main/cat.gif)
+
+
 
 <!--
 **DafneVillarreal/DafneVillarreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
